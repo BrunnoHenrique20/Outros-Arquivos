@@ -1,0 +1,42 @@
+Pessoal,
+
+Conforme conversamos hoje, nesta etapa do processo seletivo vocês precisarão criar um sistema que possua os requisitos descritos abaixo e apresentar o mesmo no dia 06/03/17 presencialmente na Supera. 
+Vocês devem usar a criatividade para pensar no objetivo do sistema e nas suas funcionalidades.
+
+Requisitos Obrigatórios do sistema:
+- Pages
+- Frameset
+- Outlines
+- Formulários 
+- No mínimo 2 formulários no sistema.
+- Mais de 3 tipos (combobox, text, etc) de campos em pelo menos 2 formulários.
+- Pelo menos 2 formulários deverão conter pelo menos 1 campo do tipo "combobox" utilizando "@DbColumn" para preencher as opções deste campo.
+- Pelo menos 2 formulários deverão conter pelo menos 1 campo do tipo "combobox" utilizando "@DbLookup" para preencher as opções deste campo.
+- Pelo menos 2 formulários deverão conter pelo menos 1 Campo computado.
+- Visões 
+- No minímo 4 visões deverão existir no sistema (no mínimo 2 visões para cada formulário).
+- Uma ou mais visões categorizadas.
+- Uma ou mais visões ordenadas.
+
+Desafio (não é obrigatório): 
+- Fluxo de trabalho (workFlow).
+
+Segue abaixo a tabela contendo os horários de apresentação do projeto no dia 06/03/17 (segunda-feira).
+08:20	Danilo
+08:40	Felipe
+09:00	Dartagnan
+09:20	Brunno
+09:40	Márcio
+10:00	Guilherme
+10:20	Marielen
+10:40	Gabriel
+11:00	Kariny
+11:20	João
+
+Qualquer dúvida podem ligar ou mandar email para mim, para a Suzy e para o Elton.
+Atenciosamente,
+----------------------------------------------------------------------------------------------------------------
+Ramon Valverde Silva                                   ramon.silva@supera.com.br
+Supera - Soluções Integradas Ltda                 www.supera.com.br 
+----------------------------------------------------------------------------------------------------------------
+TEL/FAX: (62) 3942-5919 / (62) 3942-4919

@@ -1,0 +1,7 @@
+TEMPLATES: http://www.quackit.com/html/templates/simple_website_templates.cfm
+IMAGENS/GRÁFICOS HTML: http://www.quackit.com/web_graphics/free_website_graphics/
+EXEMPLOS UTILIZANDO CODIGOS HTML: http://www.quackit.com/html/examples/
+EXEMPLOS UTILIZANDO CODIGOS JAVASCRIPT: http://www.quackit.com/javascript/examples/
+TUTORIAL CODIGOS HTML: http://www.quackit.com/html/tutorial/
+TUTORIAL CODIGOS JAVASCRIPT: http://www.quackit.com/javascript/tutorial/
+TUTORIAL CODIGOS CSS: http://www.quackit.com/css/tutorial/
